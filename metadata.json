@@ -1,0 +1,6 @@
+{
+  "name": "Ezy Tailor Master",
+  "description": "Professional tailor measurement and order management app with custom Urdu measurement options, order slips, customer directory, and zero paid restrictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
